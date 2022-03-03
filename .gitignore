@@ -1,6 +1,6 @@
 .gradle
 config.java
-config.class
+*.class
 **/build/
 !src/**/build/
 
