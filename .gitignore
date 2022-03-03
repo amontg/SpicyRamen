@@ -1,4 +1,5 @@
 .gradle
+config.java
 **/build/
 !src/**/build/
 
