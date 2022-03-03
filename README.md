@@ -1,7 +1,11 @@
 # SpicyRamen
  A project Discord bot by Amir Montgomery
+ Made with Javacord, DiscordAPI
 
 # Current Functionality
-[Message Responses]
+[.ping] A very simple message listener.
 
-.ping
+# Incoming Functionality
+[Logger Config]
+[News Article Requests]
+[YouTube, Reddit, Twitter Feeds/Functions]
