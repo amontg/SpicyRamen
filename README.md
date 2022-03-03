@@ -6,6 +6,6 @@
 [.ping] A very simple message listener.
 
 # Incoming Functionality
-[Logger Config]
-[News Article Requests]
-[YouTube, Reddit, Twitter Feeds/Functions]
+- [Logger Config]
+- [News Article Requests]
+- [YouTube, Reddit, Twitter Feeds/Functions]
