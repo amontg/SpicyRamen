@@ -23,8 +23,9 @@ public class App
         //System.out.println("Invite me to a server: " + api.createBotInvite());
         logger.info("Invite me to your server: " + api.createBotInvite());
 
-            // some message listeners
+            // some message listeners to get started figuring out this api
         api.addMessageCreateListener(new PingPong());
+        api.addMessageCreateListener(new GrabNews());
 
             // log bot server joins and leaves
         api.addServerJoinListener(event -> logger.info("Joined server " + event.getServer().getName()));
